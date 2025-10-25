@@ -56,7 +56,7 @@
 
 1. **克隆或下载项目**
    ```bash
-   cd /Users/renal/Work/personal-projects/game
+   cd game 
    ```
 
 2. **创建并激活虚拟环境**
